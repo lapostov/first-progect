@@ -14,5 +14,7 @@ public class main {
         System.out.println((chicken / eaters) + " куриных(ое) бёдер(ро)");
         System.out.println((spices / eaters) + " ложек(ка) специй");
 
+
     }
 }
+
